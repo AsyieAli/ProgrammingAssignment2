@@ -59,10 +59,12 @@ m$setinv(inverseM)
 inverseM
 
 }        
-# Retrieve the Inverse Matrix from the list (try)
-# Return the Inverse Matrix from Cache if Available
+
+#Steps :  
+#Retrieve the Inverse Matrix from the list
+# Return the Inverse Matrix from Cache if any
  
-# Compute the Inverse Matrix if It Is Not In Cache
+# Execute the Inverse Matrix if It Is Not In Cache
  
 #Store the Inverse Matrix in Cache
   
